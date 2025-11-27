@@ -23,7 +23,7 @@ BALANCE_FILE = "balance.txt"
 
 smart_contract_address = "0xDe3e5F1FC2B30638Eca306F7ac3D1A2500A14A9b"
 
-private_key = "cbf5cc576153c46be8f3fe0010d5a39d518107ff4c8be3d2914239d7e2e9317b"# Pvt key
+private_key = "8f01e3345fba3908d7707412f3bcd8e699a32f38e355694704fe8ae6b8cf8c23"# Pvt key
 
 chat_ids = ["6577768397"] # chat ids
 
